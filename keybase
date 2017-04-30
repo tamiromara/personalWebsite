@@ -1,0 +1,55 @@
+==================================================================
+
+https://keybase.io/tamiromara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://tamiromara.com
+  * I am tamiromara (https://keybase.io/tamiromara) on keybase.
+  * I have a public key ASB4Ena9Z2XSKMmTtHDLWBc9xIS_kV_H605ajChBrTjfxgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010191b105ed4edae0e380b9f7b834d5e8486503ad2855dad0b28a3b2fa7d384cee50a",
+            "host": "keybase.io",
+            "kid": "0120781276bd6765d228c993b470cb58173dc484bf915fc7eb4e5a8c2841ad38dfc60a",
+            "uid": "d63a530dec07f2f704cd821b0f561819",
+            "username": "tamiromara"
+        },
+        "service": {
+            "hostname": "tamiromara.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493575168,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493575151,
+        "hash": "d50ba65d3448a688faade7589389afc503b6c4afb9a2a919ee386b1d6a3d16cf8dfdbf1d15550987245f5b5a3b9a276e5d29816047d04a3952cc6ce5b2de6d64",
+        "seqno": 1046184
+    },
+    "prev": "736eab903e92d3916f542b5539fb366377a47d059dbb5c1c4275538dfda34f11",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeBJ2vWdl0ijJk7Rwy1gXPcSEv5Ffx+tOWowoQa0438YKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOTFiMTA1ZWQ0ZWRhZTBlMzgwYjlmN2I4MzRkNWU4NDg2NTAzYWQyODU1ZGFkMGIyOGEzYjJmYTdkMzg0Y2VlNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzgxMjc2YmQ2NzY1ZDIyOGM5OTNiNDcwY2I1ODE3M2RjNDg0YmY5MTVmYzdlYjRlNWE4YzI4NDFhZDM4ZGZjNjBhIiwidWlkIjoiZDYzYTUzMGRlYzA3ZjJmNzA0Y2Q4MjFiMGY1NjE4MTkiLCJ1c2VybmFtZSI6InRhbWlyb21hcmEifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRhbWlyb21hcmEuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5MzU3NTE2OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkzNTc1MTUxLCJoYXNoIjoiZDUwYmE2NWQzNDQ4YTY4OGZhYWRlNzU4OTM4OWFmYzUwM2I2YzRhZmI5YTJhOTE5ZWUzODZiMWQ2YTNkMTZjZjhkZmRiZjFkMTU1NTA5ODcyNDVmNWI1YTNiOWEyNzZlNWQyOTgxNjA0N2QwNGEzOTUyY2M2Y2U1YjJkZTZkNjQiLCJzZXFubyI6MTA0NjE4NH0sInByZXYiOiI3MzZlYWI5MDNlOTJkMzkxNmY1NDJiNTUzOWZiMzY2Mzc3YTQ3ZDA1OWRiYjVjMWM0Mjc1NTM4ZGZkYTM0ZjExIiwic2Vxbm8iOjIyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOgDdAUZegFzgRumXOGelH3uzFdpzZujlCY7AkcvhMB31sH8w8nKThqYUpL9nVuYLfxAMcMFkRn8YK/J3TzYLw6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBDK4skErETGSCpvqumYVHqxPDPIzjjvolpP0OJqBo/MKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tamiromara
+
+==================================================================
